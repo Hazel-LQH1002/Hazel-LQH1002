@@ -5,7 +5,7 @@
 
 🎮 Passionate about gaming and VFX, continually exploring innovative technologies for immersive experiences.
  
-🔭 Two games implemented by me with Unity: Graffiti Virtual Game[Demo](https://www.youtube.com/watch?v=zeAzhZdJiDo) [Repo](https://github.com/VE-group17/Test.git) and [Shooting Game](https://github.com/Hazel-LQH1002/ShootingVFX.git).
+🔭 Two games implemented by me with Unity: Graffiti Virtual Game {[Demo](https://www.youtube.com/watch?v=zeAzhZdJiDo) & [Repo](https://github.com/VE-group17/Test.git)} and [Shooting Game](https://github.com/Hazel-LQH1002/ShootingVFX.git).
 
 🌱 Learning VFX and Shader Programming.
 
