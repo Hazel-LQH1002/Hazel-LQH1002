@@ -3,7 +3,7 @@
 
 🤝 Completed three internships and a Research Assistant role, focusing on Computer Vision areas like Super Resolution, Generative AI, 3D Reconstruction, and Image Classification.
 
-🔭 Working on [a shooting game with VFX]((https://github.com/Hazel-LQH1002/ShootingVFX.git).
+🔭 Working on [a shooting game with VFX](https://github.com/Hazel-LQH1002/ShootingVFX.git).
 
 🌱 Learning VFX and Shader Programming.
 
