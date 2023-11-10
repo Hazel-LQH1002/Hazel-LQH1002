@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17852
-Fork on GitHub
-5239
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Qiaohui</h1>
 <h3 align="center">A new grad from UCL majoring in Computer Graphics, Vision and Imaging</h3>
 
