@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Qiaohui</h1>
 <h3 align="center">A new grad from UCL majoring in Computer Graphics, Vision and Imaging</h3>
 
+- 🤝 I have completed three internships and worked as a Research Assistant, specializing in Computer Vision, covering Super Resolution, Generative AI (diffusion models), 3D Reconstruction, Image Classification and so on.
+
 - 🔭 I’m currently working on [implmenting a shooting game with VFX](https://github.com/Hazel-LQH1002/ShootingVFX.git)
 
 - 🌱 I’m currently learning **VFX and Shader Programming**
