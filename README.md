@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Qiaohui</h1>
 <h3 align="center">A new grad from UCL majoring in Computer Graphics, Vision and Imaging</h3>
 
-- 🤝 I have completed three internships and worked as a Research Assistant, specializing in Computer Vision, covering Super Resolution, Generative AI (diffusion models), 3D Reconstruction, Image Classification and so on.
+🤝 Completed three internships and a Research Assistant role, focusing on Computer Vision areas like Super Resolution, Generative AI, 3D Reconstruction, and Image Classification.
 
-- 🔭 I’m currently working on [implmenting a shooting game with VFX](https://github.com/Hazel-LQH1002/ShootingVFX.git)
+🔭 Working on [a shooting game with VFX]((https://github.com/Hazel-LQH1002/ShootingVFX.git)).
 
-- 🌱 I’m currently learning **VFX and Shader Programming**
-  
-- 🎮 Passionate about the gaming industry and VFX, I'm actively exploring new technologies and creative approaches to enhance gaming experiences and visual storytelling.
+🌱 Learning VFX and Shader Programming.
 
-- 👨‍💻 All of my projects are available at [https://hazel-lqh1002.github.io/website1/](https://hazel-lqh1002.github.io/website1/)
+👨‍💻 Projects showcased at [https://hazel-lqh1002.github.io/website1/](https://hazel-lqh1002.github.io/website1/).
 
-- 📫 How to reach me **qhliang1002@gmail.com**
+🎮 Passionate about gaming and VFX, continually exploring innovative technologies for immersive experiences.
 
-- ⚡ Fun fact **I love street dance, photography and painting!**
+📫 Reach me at: qhliang1002@gmail.com.
+
+⚡ Fun fact: Enthusiast of street dance, photography, and painting.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
