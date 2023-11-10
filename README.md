@@ -3,13 +3,14 @@
 
 🤝 Completed three internships and a Research Assistant role, focusing on Computer Vision areas like Super Resolution, Generative AI, 3D Reconstruction, and Image Classification.
 
-🔭 Working on [a shooting game with VFX](https://github.com/Hazel-LQH1002/ShootingVFX.git).
+🎮 Passionate about gaming and VFX, continually exploring innovative technologies for immersive experiences.
+ 
+🔭 Two games implemented by me with Unity: [Graffiti Virtual Game](https://www.youtube.com/watch?v=zeAzhZdJiDo){[Repo](https://github.com/VE-group17/Test.git)} and [Shooting Game](https://github.com/Hazel-LQH1002/ShootingVFX.git).
 
 🌱 Learning VFX and Shader Programming.
 
 👨‍💻 Projects showcased at [https://hazel-lqh1002.github.io/website1/](https://hazel-lqh1002.github.io/website1/).
 
-🎮 Passionate about gaming and VFX, continually exploring innovative technologies for immersive experiences.
 
 📫 Reach me at: qhliang1002@gmail.com.
 
