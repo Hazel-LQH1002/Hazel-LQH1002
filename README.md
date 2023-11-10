@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on [implmenting a shooting game with VFX](https://github.com/Hazel-LQH1002/ShootingVFX.git)
 
 - 🌱 I’m currently learning **VFX and Shader Programming**
+  
+- 🎮 Passionate about the gaming industry and VFX, I'm actively exploring new technologies and creative approaches to enhance gaming experiences and visual storytelling.
 
 - 👨‍💻 All of my projects are available at [https://hazel-lqh1002.github.io/website1/](https://hazel-lqh1002.github.io/website1/)
 
