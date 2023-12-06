@@ -7,7 +7,7 @@
  
 🔭 Two games implemented by me with Unity: Graffiti Virtual Game {[Demo](https://www.youtube.com/watch?v=zeAzhZdJiDo) & [Repo](https://github.com/VE-group17/Test.git)} and [Shooting VFX Game](https://github.com/Hazel-LQH1002/ShootVFX.git).
 
-🌱 Learning VFX and Shader Programming.
+🌱 Learning DirectX and Shader Programming.
 
 👨‍💻 Projects showcased at [https://hazel-lqh1002.github.io/website1/](https://hazel-lqh1002.github.io/website1/).
 
